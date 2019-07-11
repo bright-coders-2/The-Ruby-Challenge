@@ -1,6 +1,6 @@
 # The Ruby Challenge
 
-To complete this bootcamp you are required to complete the following 3 tasks
+To complete this challenge you are required to fulfill the following 3 tasks
 
 # 1 Tic Tac Toe
 
