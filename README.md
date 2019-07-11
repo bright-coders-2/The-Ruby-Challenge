@@ -1,4 +1,4 @@
-# Ruby-Bootcamp
+# The Ruby Challenge
 
 To complete this bootcamp you are required to complete the following 3 tasks
 
